@@ -1,5 +1,13 @@
 package com.tnsif.lambdaexpressiondemo;
 
-public interface Message {
+	//demo for lambdaexpression
 
-}
+	@FunctionalInterface
+	public interface Message {
+		
+		public String greet();
+		
+	}
+
+
+
