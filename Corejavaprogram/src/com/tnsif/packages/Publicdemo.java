@@ -9,5 +9,6 @@ public class Publicdemo {
 		
 		System.out.println(d.a);
 	}
-
 }
+
+

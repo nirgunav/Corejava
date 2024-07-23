@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 public class Personexce{
 	public static void main(String[] args) {
+		@SuppressWarnings("resource")
 		Scanner sc=new Scanner(System.in);
 		System.out.println("enter person name");
 		String name=sc.nextLine();

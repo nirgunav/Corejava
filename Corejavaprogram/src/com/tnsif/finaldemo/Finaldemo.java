@@ -1,11 +1,11 @@
 package com.tnsif.finaldemo;
 //demo for final
 
-public final class Finaldemo {
+public class Finaldemo {
 	final int x=8;
 	static final int y;
 	//final
-	 final void change() {
+	 void change() {
      System.out.println("default");
 	 }
 		 static {
